@@ -1,0 +1,1423 @@
+<?xml version="1.0"?>
+<Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapData>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>3</pointX>
+        <pointY>12</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Hero">
+        <pointX>5</pointX>
+        <pointY>6</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>5</pointX>
+        <pointY>12</pointY>
+      </MapObject>
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>5</pointX>
+        <pointY>19</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>8</pointX>
+        <pointY>24</pointY>
+      </MapObject>
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>16</pointX>
+        <pointY>24</pointY>
+      </MapObject>
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>17</pointX>
+        <pointY>13</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>19</pointX>
+        <pointY>3</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>20</pointX>
+        <pointY>16</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>21</pointX>
+        <pointY>1</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+    <Row>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>24</pointX>
+        <pointY>1</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </Row>
+  </MapData>
+  <_map>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>3</pointX>
+        <pointY>12</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Hero">
+        <pointX>5</pointX>
+        <pointY>6</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>5</pointX>
+        <pointY>12</pointY>
+      </MapObject>
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>5</pointX>
+        <pointY>19</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>8</pointX>
+        <pointY>24</pointY>
+      </MapObject>
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>16</pointX>
+        <pointY>24</pointY>
+      </MapObject>
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>17</pointX>
+        <pointY>13</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>19</pointX>
+        <pointY>3</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>20</pointX>
+        <pointY>16</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>21</pointX>
+        <pointY>1</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Tree" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+    <ArrayOfMapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Enemy">
+        <pointX>24</pointX>
+        <pointY>1</pointY>
+      </MapObject>
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Wall" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+      <MapObject xsi:type="Field" />
+    </ArrayOfMapObject>
+  </_map>
+</Map>

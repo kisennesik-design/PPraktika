@@ -1,0 +1,8 @@
+# Visual Studio / .NET ignores
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+packages/

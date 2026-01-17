@@ -266,6 +266,15 @@ namespace ConsoleApp129
         /// <param name="hero">Герой.</param>
         public void MoveHero(int newX, int newY, Hero hero)
         {
+            if (newX < 0 || newX >= MapWidth || newY < 0 || newY >= MapHeight)
+            {
+                throw new GameException($"Нельзя двигаться за пределы карты: координаты ({newX}, {newY}) недопустимы");
+                // или без исключения:
+                // Console.WriteLine("Нельзя туда идти!");
+                // return;
+            }
+
+            // остальной код...
             if (_map[hero.pointX][hero.pointY] is Hero)
             {
                 _map[hero.pointX][hero.pointY] = new Field();

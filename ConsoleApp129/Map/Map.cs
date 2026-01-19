@@ -138,6 +138,8 @@ namespace ConsoleApp129
         /// </summary>
         public void DrawMap()
         {
+            Console.Clear();  // ← добавь эту строку в начало метода
+
             for (int i = 0; i < GetSize().Item1; i++)
             {
                 for (int j = 0; j < GetSize().Item2; j++)
@@ -233,7 +235,8 @@ namespace ConsoleApp129
             {
                 return _map[x][y];
             }
-            throw new GameException($"Неверные координаты карты: ({x}, {y})");
+            // Убрали throw — пусть MoveHero сам обрабатывает
+            return null;  // или throw new ArgumentOutOfRangeException("Координаты вне карты");
         }
 
         /// <summary>
@@ -274,7 +277,6 @@ namespace ConsoleApp129
                 // return;
             }
 
-            // остальной код...
             if (_map[hero.pointX][hero.pointY] is Hero)
             {
                 _map[hero.pointX][hero.pointY] = new Field();

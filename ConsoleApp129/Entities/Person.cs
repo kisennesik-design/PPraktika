@@ -14,6 +14,7 @@ namespace ConsoleApp129
         /// Получает или задает координату X персонажа на карте.
         /// </summary>
         public int pointX { get; set; }
+
         /// <summary>
         /// Получает или задает координату Y персонажа на карте.
         /// </summary>
@@ -23,8 +24,9 @@ namespace ConsoleApp129
         /// Конструктор по умолчанию
         /// </summary>
         public Person() { }
+
         /// <summary>
-        /// Инициализирует новый экземпляр класса <see cref="Person"/> с указанными координатами.
+        /// Инициализирует новый экземпляр класса с указанными координатами.
         /// </summary>
         /// <param name="x">Координата X.</param>
         /// <param name="y">Координата Y.</param>
@@ -50,17 +52,47 @@ namespace ConsoleApp129
     public class Hero : Person
     {
         /// <summary>
+        /// Урон героя (можно менять в игре).
+        /// </summary>
+        public int Damage { get; set; } = 10;  // ← вот здесь добавлено поле
+
+        /// <summary>
         /// Конструктор по умолчанию.
         /// </summary>
         public Hero() { }
 
         /// <summary>
-        /// Инициализирует новый экземпляр класса <see cref="Hero"/> с указанными координатами.
+        /// Инициализирует новый экземпляр класса с указанными координатами.
         /// </summary>
         /// <param name="x">Координата X.</param>
         /// <param name="y">Координата Y.</param>
-        public Hero(int x, int y) : base(x, y)
+        public Hero(int x, int y) : base(x, y) { }
+
+        /// <summary>
+        /// Выполняет взаимодействие героя с объектом на текущей позиции.
+        /// </summary>
+        /// <param name="map">Текущая карта.</param>
+        public void InteractWithObject(Map map)
         {
+            MapObject obj = map.GetMapObject(pointX, pointY);
+
+            if (obj is Enemy enemy)
+            {
+                Console.WriteLine($"Атака на врага! Урон: {Damage}");
+                // Здесь можно добавить логику урона врагу
+            }
+            else if (obj is Tree)
+            {
+                Console.WriteLine("Вы собрали дерево (ресурс или декор)");
+            }
+            else if (obj is Field)
+            {
+                Console.WriteLine("Здесь ничего нет...");
+            }
+            else
+            {
+                Console.WriteLine("Неизвестный объект");
+            }
         }
 
         /// <summary>
@@ -85,13 +117,11 @@ namespace ConsoleApp129
         public Enemy() { }
 
         /// <summary>
-        /// Инициализирует новый экземпляр класса <see cref="Enemy"/> с указанными координатами.
+        /// Инициализирует новый экземпляр класса с указанными координатами.
         /// </summary>
         /// <param name="x">Координата X.</param>
         /// <param name="y">Координата Y.</param>
-        public Enemy(int x, int y) : base(x, y)
-        {
-        }
+        public Enemy(int x, int y) : base(x, y) { }
 
         /// <summary>
         /// Возвращает символ для отображения врага на карте.
